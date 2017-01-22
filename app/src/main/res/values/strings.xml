@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">FastSettings</string>
-    <string name="button_usb">USB tethering</string>
+    <string name="button_tethering">Tethering</string>
     <string name="button_mobile">Mobile network settings</string>
 </resources>

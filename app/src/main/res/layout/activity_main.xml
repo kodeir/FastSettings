@@ -23,7 +23,7 @@
 
     <Button
         android:background="@color/color2"
-        android:text="@string/button_usb"
+        android:text="@string/button_tethering"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/button"
